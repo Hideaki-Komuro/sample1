@@ -17,4 +17,11 @@
     color: rgb(209, 39, 39);
   }
 
+.area:nth-child(even) {
+    background-color: #0db;
+}
+.area:nth-child(odd) {
+    background-color: #0bd;
+}
+
  /* top */
